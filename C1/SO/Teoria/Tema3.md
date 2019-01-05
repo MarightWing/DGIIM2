@@ -45,7 +45,7 @@ Esto se puede realizar gracias a la localidad de los programas, es decir, es muy
 
 ### Asignación contigua
 
-Los datos se asigna de forma secuencial en mamoria
+Los datos se asigna de forma secuencial en memoria
 
 ### Asignación no contigua
 
